@@ -41,6 +41,8 @@ To run the web app:
 1. Go to app directory ```cd app```
 2. Run the run.py file ```python run.py```
 3. Open your browser and go to http://localhost:3001
+4. Test normal headlines from here: https://www.sciencedaily.com/news/computers_math/artificial_intelligence/
+5. Test sarcastic headlines from here: https://bestlifeonline.com/funniest-newspaper-headlines-of-all-time/
 
 
 ## Note: 
