@@ -47,7 +47,14 @@ To run the web app:
 Since I'm using plotly which use iframes for visualizations, you won't be able to see them in notebook on github. Please download and open the HTML file in Firefox/Chrome.
 
 ## Results<a name="results"></a>
+I'm using accuracy to compare the models
+![](imgs/newplot.png)
 
+1. Testing a normal headline outside of dataset:
+![](imgs/ss1.png)
+
+2. Testing a sarcastic headline: outside of dataset:
+![](imgs/ss2.png)
 
 
 ## Conclusion<a name="conc"></a>
